@@ -1,0 +1,17 @@
+{
+  "name": "workflow-manager",
+  "version": "1.0.0",
+  "description": "Workflow Manager for Liquid JavaScript Billing Systems",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^10.0.0",
+    "axios": "^0.24.0"
+  }
+}
